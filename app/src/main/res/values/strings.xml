@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeLibrary</string>
+    <string name="title_text">Список книг</string>
+    <string name="button_text">Добавить книгу</string>
+</resources>
